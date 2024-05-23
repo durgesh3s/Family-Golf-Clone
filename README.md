@@ -30,7 +30,7 @@ A dynamic and engaging Family Golf web app created using HTML, CSS, JavaScript, 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/family-golf-webapp.git
+   git clone https://github.com/durgesh3s/Family-Golf-Clone.git
    cd family-golf-webapp
    ```
 
