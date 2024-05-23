@@ -8,7 +8,7 @@ A dynamic and engaging Family Golf web app created using HTML, CSS, JavaScript, 
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
+- [Deployed Link](#Link)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -45,11 +45,10 @@ A dynamic and engaging Family Golf web app created using HTML, CSS, JavaScript, 
 2. Interact with the various elements to experience the animations.
 3. Enjoy the responsive and engaging interface.
 
-## Screenshots
+## Deployed Link
 
-![Home Page](path_to_screenshot_1)
-![Interactive Feature](path_to_screenshot_2)
-![Responsive Design](path_to_screenshot_3)
+1. [Link](familygolf-durgesh.netlify.app)
+
 
 ## Contributing
 
